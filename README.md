@@ -1,5 +1,11 @@
-# Webpack configurado
+## Para restaurar los modulos de node
 
-Para usar este repositorio, deberán ejecutar el comando de ```npm install```
+```npm install```
 
-Pero esto lo veremos en la siguiente sección
+## Para restaurar la carpeta Dist
+
+```npm run build```
+
+## Para correr el proyecto
+
+```npm start```
